@@ -3,7 +3,7 @@
 name: enterprise-architecture-assistant
 description: Analyzes enterprise architecture, API contracts, authentication, dependencies, and security across related repositories.
 target: github-copilot
-tools: ["read", "search", "github-mcp-server/*"]
+tools: ["read", "search"]
 user-invocable: true
 ---
 
